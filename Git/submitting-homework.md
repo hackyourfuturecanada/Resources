@@ -1,7 +1,5 @@
 # Basic workflow for using git to submit homework
 
-## Clone your forked repository
-
 ## Forking and cloning 
 
 1. Go to the current week's repository on our HackYourFutureCanada [page](https://github.com/HackYourFutureCanada).
